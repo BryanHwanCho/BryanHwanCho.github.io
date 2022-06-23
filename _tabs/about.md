@@ -25,7 +25,7 @@ order: 4
   
   ----  
 
-  <h2>-iHihi NET LAB 블로그 주인, BryanHwanCho 올림-<h2/>
+  -iHihi NET LAB 블로그 주인, BryanHwanCho 올림-
 
 
 
