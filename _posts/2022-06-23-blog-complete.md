@@ -1,7 +1,7 @@
 ---
 title: 드디어 완성!!
 author: BryanHwanCho
-date: 2021-06-23 00:25:00 +0900
+date: 2022-06-23 00:25:00 +0900
 categories: [포스트, 무제]
 tags: [post]
 ---
