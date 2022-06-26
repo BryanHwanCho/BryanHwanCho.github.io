@@ -1,5 +1,5 @@
 ---
-title: 만들어놓은 GitHub.io의 빈화면을 채워봅시다.
+title: (작성중) 만들어놓은 GitHub.io의 빈화면을 채워봅시다.
 author: BryanHwanCho
 date: 2022-06-25 20:39:00 +0900
 categories: [블로그, 만들기]
