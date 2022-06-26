@@ -2,6 +2,7 @@
 title: About
 icon: fas fa-info-circle
 order: 4
+comments: true
 ---
 
 <!--
@@ -24,6 +25,9 @@ order: 4
     항상 행복하고 즐거운(?) 코딩생활 하셨으면 좋겠습니다. 감사합니다.    
   
   ----  
+
+p.s : disqus를 통한 댓글기능이 있습니다. 비록 회원가입하셔야되지만..  
+여러분의 생각을 댓글로 남겨주세요..
 
   -iHihi NET LAB 블로그 주인, BryanHwanCho 올림-
 
