@@ -4,6 +4,7 @@ author: BryanHwanCho
 date: 2022-06-25 20:39:00 +0900
 categories: [블로그, 만들기]
 tag: [github, blog, io]
+comments: true
 ---
 
 ---

@@ -4,6 +4,7 @@ author: iHihi
 date: 2022-06-25 17:30:00 +0900
 categories: [포스트, Dev지식]
 tag: [github, post]
+comments: true
 ---
 
 ---
