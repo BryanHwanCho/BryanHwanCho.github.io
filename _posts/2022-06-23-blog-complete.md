@@ -4,6 +4,7 @@ author: BryanHwanCho
 date: 2022-06-23 00:25:00 +0900
 categories: [포스트, 무제]
 tags: [post]
+comments: true
 ---
 
 ## 드디어 블로그가 완성됬습니다!!
