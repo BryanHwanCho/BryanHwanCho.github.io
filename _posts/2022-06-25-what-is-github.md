@@ -1,5 +1,5 @@
 ---
-title: (작성중) Git에 대해 알아보자...
+title: Git에 대해 알아보자...
 author: iHihi
 date: 2022-06-25 17:30:00 +0900
 categories: [포스트, Dev지식]
@@ -65,6 +65,33 @@ git는 맥OS, 리눅스, 윈도우에서 사용이 가능하고,
 git를 설치하여 이용할 수 있습니다.  
 GitHub사이트에서 직접 파일을 업로드해 이용할 수 있자만,  
 ~~git를 설치해서 하는게 편합니다.~~  
+먼저 git 다운로드 사이트를 접속하여 봅시다.  
+[Git 다운로드](https://git-scm.com/downloads){:target="_blank"}      
+![git_down](/img/post_img/what_is_github/git_download.png){: wdith="700"  }  
+여기서 자신에 맞는 OS로 받아줍시다.  
+저는 윈도우에서 git를 설치하였습니다.  
+    
+설치한 git bash를 실행하면 git터미널이 실행이 됩니다.  
+![git터미널](/img/post_img/what_is_github/git_bash.png){: wdith="700"  }  
+
+---
+
+이 글에서는 git설치하는 방법까지만 다루도록 하겠습니다.  
+git를 이용하는 방법은 차후에 정리해서 올리도록 하겠습니다.  
+아마 한 글에 다 정리하면 내용이 무지막지하게 길어질거라 생각합니다.  
+~~이렇게 써내야 할 글이 늘어나는..~~  
+아무튼 이 글에서는 버전관리와 git에 대해 알아보았습니다.  
+부족한 내용이 있을 수 있음에도 불구하고 읽어주셔서 감사합니다.  
+
+---  
+  
+iHihi올림.  
+
+---
+
+
+
+
   
 
 
