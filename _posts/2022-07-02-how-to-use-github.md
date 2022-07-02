@@ -36,5 +36,13 @@ comments: true
 
 ---  
   
-## 2. git bash에서 레포지토리 연결하기
+## 2. git bash에서 레포지토리 연결하기  
+먼저, 깃헙 레포지토리 창에 갑시다.  
+![git레포](/img/post_img/what_is_github/github_repo.png){: wdith="700"  }  
+에서 초록색 박스의 CODE가 있습니다.  
+클릭해보면,  
+![clone_url](/img/post_img/what_is_github/clone_url.png){: wdith="700"  }  
+```https://github.com/BryanHwanCho/test.git```
+이렇게 링크가 있는데 이를 복사해줍시다.  
+
 
