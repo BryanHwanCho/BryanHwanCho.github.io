@@ -1,7 +1,7 @@
 ---
 title: Orange3를 이용하여 데이터 분석 해보기-2탄
 author: iHihi
-date: 2022-08-30 22:08:00 +0900
+date: 2022-09-06 00:43:00 +0900
 categories: [포스트, AI공부]
 tag: [data, orange, post]
 comments: true
